@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://2663091684-hub.github.io/lvfeng-greenhouse-cn/sitemap.xml
